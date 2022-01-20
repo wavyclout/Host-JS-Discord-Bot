@@ -1,5 +1,5 @@
-# Replit Bot Hosting Tutorial 2022
-This guide will guide you into how to host your discord bot from replit 24/7 for free 
+# Replit Bot Hosting Tutorial 2022 
+In this tutorial I will be explaining how to host your discord bot 24/7 on replit without paying anything, that's right completely free (no hacker plan)
 
 ## Requirements:
 - [x] Desktop/Laptop/Mobile 
